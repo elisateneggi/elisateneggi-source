@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #efd6ac;
+}
+
+.sidebar-heading {
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+
+.sidebar-heading a:hover {
+    border-bottom: dotted 1px #C44900;
+    color: #000;
+    text-decoration: none;
+  }
+
+.sidebar-p {
+    color:  #04151F;
+}
+
+.sidebar-menu li.active a {
+    color: #C44900;
+    font-weight: bold;
+}
+
+.sidebar-menu li.active:before {
+    color: #C44900;
+}
+
+.sidebar-menu li:hover a {
+    text-decoration: none;
+    color: #C44900;
+  }
+  .sidebar-menu li:hover:before {
+    color: #C44900;
+  }
+
+p.social a {
+    color: #04151F;
+    border: solid 1px #04151F;
+}
+
+p.social a:hover {
+    color: #C44900;
+    border-color: #C44900;
+}
+
+.copyright {
+    color: #04151F;
+}
+
+.copyright p.credit a {
+    color: #04151F;
+}
+
+h4.thumbnailTitle a {
+    font-family: 'Merriweather', serif;
+}
+
+h1.articleTitle {
+    font-family: 'Merriweather', serif;
+}
