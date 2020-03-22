@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #efd6ac;
 }
 
@@ -59,4 +59,16 @@ h4.thumbnailTitle a {
 
 h1.articleTitle {
     font-family: 'Merriweather', serif;
+}
+
+div.content-column-content p {
+    text-align: justify;
+}
+
+p.references a {
+    color: #C44900;
+}
+
+p.rating {
+    margin-bottom: 5px;
 }

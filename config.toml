@@ -9,8 +9,8 @@ languageCode = "en-us"
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "I am a penguin. (Roboto Condensed)",
-    "I am the second and last paragraph here! (Roboto Condensed)"
+    "I am a penguin. (Roboto)",
+    "I am the second and last paragraph here! (Roboto)"
   ]
 
 

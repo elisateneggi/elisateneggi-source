@@ -6,7 +6,9 @@ draft = false
 image = "img/portfolio/thelighthouse-cover.png"
 showonlyimage = false
 weight = 1
-summary = "This is a summary (Roboto Condensed)"
+summary = "This is a summary (Roboto)"
+references = [["IMDB", "https://google.com"], ["Rotten Tomatoes", "https://google.com"], ["MyMovies", "https://google.com"]]
+rating = 4
 +++
 
 In The Lighthouse, director Robert Eggers resorts to folk tales and legends to sketch an uncompromisingly grim portrait of the human soul.
