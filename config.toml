@@ -1,5 +1,5 @@
 baseurl = "https://elisateneggi.github.io/"
-title = "Elisa Teneggi (Montserrat)"
+title = "Elisa Teneggi"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 
@@ -7,7 +7,7 @@ languageCode = "en-us"
   
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2020 Elisa Teneggi"
   sidebarAbout = [
     "I am a penguin. (Roboto)",
     "I am the second and last paragraph here! (Roboto)"

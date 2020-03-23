@@ -1,6 +1,6 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-thumbnailTitle = "The Lighthouse (Merriweather)"
+thumbnailTitle = "The Lighthouse"
 articleTitle = "The Lighthouse: a hallucinatory high-seas allegory of perdition"
 draft = false
 image = "img/portfolio/thelighthouse-cover.png"
@@ -26,5 +26,3 @@ So, unlike Coleridge, The Lighthouse offers no lesson to be learned. Eggers’s 
 Stuck in The Lighthouse’s tubular, black and white 1.19:1 screen ratio, the film’s rather Ahabesque protagonists melt into the texture of Eggers’s 35mm reel, renouncing their mainland lives for the cruel floating inconsistence of dreams. Hieratic and flesh-bound at the same time, Dafoe and Pattinson strain their bodies to deliver exquisite portraits of unrepenting outcasts. And, as the mono soundtrack conveys, it is in their tormented, horrific hallucinations that the film takes place.
 
 Self-evidently enough, horror tropes do play a major role in this tea-for-two recital. Nevertheless, Eggers isn’t fond neither of jump scares, nor of phantom chainsaws. He wants to make our bowels shake with angst because of ruthless violence and beastlike behaviour. His haunted island is governed by Old-Testamentary laws, and, once a cycle of punishment’s over, another one is ready to start. This would have displeased Coleridge, who believed in salvation through repentance. This highly pleases our eager, voyeur eyes, which apparently can’t get enough of being reminded of how base human nature is, and that heaven is but a sugar token to let us dream sweet dreams again.
-
-STARS: 4
