@@ -1,0 +1,14 @@
+<nav class="navbar navbar-expand-md navbar-dark justify-content-between">
+    <div class="container">
+        <a class="navbar-brand abs" href="{{ .Site.BaseURL }}">
+            <img src="{{ .Site.Params.Logo.path }}" width="64" height="64" class="d-inline-block align-top" alt="" />
+        </a>
+        <button style="background-color: transparent; color: white; border: none;"  class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse my-0 my-sm-0" id="navbarNav">
+            {{ partial "menu.html" . }}
+        </div>
+    </div>
+</nav>

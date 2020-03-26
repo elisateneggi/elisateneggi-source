@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="col-10 col-sm-6 col-md-10">
+    <h1 id="main">{{ .Site.Title }}</h1>
+
+    {{- with .Site.Params.homeSubtitle }}
+    <h2 id="main">{{.}}</h2>
+    {{- end }}
+</div>
+{{ end }}
