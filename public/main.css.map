@@ -3,7 +3,7 @@
 	"file": "main.css",
 	"sourceRoot": "/Users/jacopo/Repo/elisateneggi-source",
 	"sources": [
-		"themes/hello-friend-ng/assets/scss/main.scss",
+		"assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
 		"themes/hello-friend-ng/assets/scss/_prism.scss",
 		"assets/scss/_variables.scss",
