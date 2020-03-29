@@ -340,3 +340,48 @@ hr {
 	text-decoration: none;
 	z-index: 100000;
 }
+
+div.highlight-container {
+  margin-top: 100px;
+}
+
+div.highlight {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+div.highlight p.category {
+  font-family: 'Lato';
+  font-weight: 700;
+  color: #ed3f35;
+  margin-bottom: 0px;
+  font-style: normal;
+  font-size: 12px;
+  flex: 0 1 auto;
+}
+
+div.highlight a.title {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-size: 24px;
+  flex: 0 1 auto;
+}
+
+div.highlight div.rest {
+  flex: 1 1 auto;
+  min-height: 10px;
+  background-image: url('./test.svg');
+  background-size: auto 3px;
+  background-position-x: 100%;
+  background-position-y: 100%;
+  background-repeat: repeat-x;
+}
+
+div.highlight a.title:hover {
+  text-decoration: none;
+  color: #ed3f35;
+}
+
+
