@@ -1,5 +1,5 @@
 baseURL = "https://elisateneggi.github.io"
-title   = "Unrequested tailor-made opinions"
+title   = "Elisa Teneggi"
 
 DefaultContentLanguage = "en"
 
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "And some original content too"
+  homeSubtitle = "Films, Books, and Dolce Vita"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
