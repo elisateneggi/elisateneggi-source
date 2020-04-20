@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="col-11 col-md-10 col-lg-8">
+    <div class="posts row">
+        {{ range .Pages }}
+        <div class="post col-md-4">
+            <a class="permalink" href="{{ .Permalink }}">
+                <img src="/{{ .Params.cover }}" />
+                <p class="title">{{ .Title }}</p>
+                <p class="subtitle">{{ .Params.subtitle }}</p>
+            </a>
+            <div class="rest"></div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}

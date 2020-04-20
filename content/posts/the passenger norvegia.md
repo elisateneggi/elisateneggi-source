@@ -1,15 +1,17 @@
 ---
 author:
   name: "Michael Henderson"
-date: 2020-09-28
+date: 2019-09-28
 linktitle: Creating a New Theme
 type:
 - post
 - posts
-title: Creating a New Theme
+title: The Passenger
+subtitle: Imparare la Norvegia
 weight: 10
 series:
 - Hugo 101
+cover: the_passenger_norvegia.png
 ---
 
 
