@@ -1,0 +1,22 @@
+---
+date: 2019-10-204
+type:
+- post
+- posts
+title: Che cosa ha fatto Jack?
+subtitle: David Lynch, sogni, e sigarette
+cover: what_did_jack_do.png
+---
+
+Se, dal *Finnegan’s Wake* in poi, la letteratura è stata arginata da un certo **limite joyciano di comprensibilità**, per il cinema tale confine sembra essere l’opera di **David Lynch**. Non per nulla alcune delle più gustose pagine di fandom e meme dell’internet sono dedicate al regista di *Twin Peaks* e *Mulholland Drive*. Non per nulla, man mano che accumuliamo rewatch della sua filmografia, sentendoci sempre più vicini a decrittarne i corridoi semantici, la cima del monte non fa che allontanarsi, rivelandosi la diafana illusione di deboli miraggi intellettuali. In soldoni: dei film di Lynch non si capisce una mazza. Ed è proprio per questo che il loro loop onirico risulta tanto stretto quanto indissolubile. Un sogno cosmico per immagini. Proprio quello che l’autore dell’Ulisse aveva rincorso per tutta la vita.
+
+E l’ultima perla che Lynch ha regalato al mercato, il corto targato **Netflix** ***Che cosa ha fatto Jack?***, non fa differenza. In una stazione ferroviaria sotto sequestro di polizia, un detective, impersonato dal regista stesso, mette sotto torchio una scimmia, **Jack Cruz**, accusata di omicidio. Tra sigarette, immancabili tazze di caffè servite da prototipiche cameriere di roadhouse, e l’acconciatura à la Marie Antoinette di Lynch che fa scendere una lacrimuccia per l’ispettore Gordon Cole di *Twin Peaks*, la conversazione si snoda sul filo del campo-controcampo, intagliando i volti di Jack e del detective su uno sfondo bianco e nero pece, così scuro che si fonde negli oggetti che contiene.
+
+Agli stagionati amanti di Lynch, *Che cosa ha fatto Jack?* non potrà che ricordare le **tirate retro-noir** di *Eraserhead* (1978), o le sequenze surrealiste di *Twin Peaks – Il ritorno* (2017). L’enfant terrible del cinema indipendente americano dimostra in effetti di essere tornato a quel cocktail di paradosso e divertissement che gli ha permesso, negli anni, di costruire un immaginario parallelo dell’America, elevando oggetti di uso e consumo quotidiano a capifila di una palingenesi universale. È una **comunicazione interrotta**, quella che avviene nella mente di Lynch; corrente a flusso alternato che procede secondo misteriose vie maestre in un confronto a colpi di arguzia e voli pindarici. Per dirla in altri termini: che cosa c’entrano prosaiche, profondissime discussioni sull’esistenza di Babbo Natale con polli che attraversano la strada?
+
+Ma in fondo, come il Dream Man (l’omino dei sogni) di *Twin Peaks* insegnava con la sua danza ultraterrena, forse questa non è la domanda giusta da farsi. Se per il detective è facile raccogliere gli indizi per provare a inchiodare Jack, così non avviene per noi, pubblico illuso e sciagurato, che ci barcameniamo vanamente tra consunte scuole di pensiero per trovare il passe-partout alla mente del cineasta. I fatti sono da accettare per come si presentano, avvolti dal mistero. E, come **David Foster Wallace** si premurò di sottolineare nel suo saggio dedicato al regista e inserito in Una cosa divertente che non farò mai più, tratto caratteristico di Lynch era, ed è, una tranquilla, ieratica ossessività verso le più dettagliate minuzie della gestione della sua quotidianità. Compreso il fare pipì all’aria aperta anche quando il set è stato rifornito di bagni chimici di discreto lusso.
+
+Sarebbe dunque più produttivo chiedersi perché siamo così ossessionati dal porci domande riguardo ai film di Lynch. Perché ci risulti così difficile accettare con epicurea atarassia la loro **“gettatezza”** nel mondo. Come sfingi mute, le immagini del creatore di Laura Palmer scorrono indifferenti sullo schermo, celebrando festosamente la loro dichiarata estraneità al mondo dei film che i vostri genitori – o parenti di sorta – definirebbero sensati, quelli, insomma, per cui vale la pena spendere soldi al cinema. Ed è proprio qui che ci dispiace, a noi pervertiti della settima arte. Perché avremmo volentieri investito tempo, e denaro, nella visione in sala di quei diciassette minuti di inespugnabile, razionalissimo delirio cinematografico di cui si compone *Che cosa ha fatto Jack?*. L’esperienza è il gioioso rincontrare un padre che non si vede da tanto. E che, non capendone le azioni, non si è mai provato il desiderio di uccidere. 
+
+---
+Pubblicato su **[The MacGuffin](themacguffin.it)**

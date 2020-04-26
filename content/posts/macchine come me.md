@@ -24,4 +24,4 @@ Se dunque, come lo stesso Turing afferma nel corso del libro, “si potrebbero r
 
 ---
 
-Pubblicato su [Il vizio dell'esistenza](ilviziodellesistenza.it)
+Pubblicato su **[Il vizio dell'esistenza](ilviziodellesistenza.it)**
