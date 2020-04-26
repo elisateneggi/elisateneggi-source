@@ -8,7 +8,7 @@ subtitle: Imparare la Norvegia
 cover: the_passenger_norvegia.png
 ---
 
->###“La Norvegia va visitata almeno una volta nella vita. Il segreto del suo fascino è molto semplice: è uno dei paesi più belli del mondo.”
+###“La Norvegia va visitata almeno una volta nella vita. Il segreto del suo fascino è molto semplice: è uno dei paesi più belli del mondo.”
 
 Questa la frase di presentazione dell’ultima edizione della **Lonely Planet** dedicata alla **Norvegia**, affermazione con la quale sarebbe difficoltoso dissentire. Smilzo gigante scandinavo rinomato per il salmone e per i fiordi, la Norvegia è cara; però è **pop**, e il desiderio di concedersi una vacanza estiva “alternativa” tra la sua fresca, lussureggiante natura monta nelle menti del Sud del mondo. Ultima meraviglia del vecchio Occidente, questo Stato sembra attrarre anche per la qualità della vita dei suoi cittadini, i quali figurano da decenni in cima a tutte le classifiche che contano: parità dei sessi, PIL pro capite, debito pubblico, benessere, efficienza dei sistemi scolastico e sanitario, produzione di energia da fonti rinnovabili, turismo in costante ascesa. Le statistiche riportano che la Norvegia è un paese felice, osservato dal resto del mondo come uno strano mirabilia custodito sotto una campana di vetro, barriera che i tipi di Iperborea, nelle vesti della collana *The Passenger*, vogliono fracassare.
 
